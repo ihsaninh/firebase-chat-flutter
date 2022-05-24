@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "90569147103",
+    "project_id": "aichatv2-47acd",
+    "storage_bucket": "aichatv2-47acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90569147103:android:b228ca67cb7c520c619f6a",
+        "android_client_info": {
+          "package_name": "com.ihsan.aichat.aichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90569147103-dppme22jmj8pce13irvr2m5leij6uudp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihsan.aichat.aichat",
+            "certificate_hash": "754684402a5532a25241fb9e1b67e173aa174521"
+          }
+        },
+        {
+          "client_id": "90569147103-a1urh34lt5sfbc12bjim5djblk6a04so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HjbKQy_FJp8TkLqxp_OmKIbuSOlF1iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90569147103-a1urh34lt5sfbc12bjim5djblk6a04so.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90569147103-lje9v2rr882v15k1m30lsak3f8oahnur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihsan.aichat.aichat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90569147103:android:dcadc2cbbf9353b0619f6a",
+        "android_client_info": {
+          "package_name": "com.ihsan.amel.aichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90569147103-a1urh34lt5sfbc12bjim5djblk6a04so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HjbKQy_FJp8TkLqxp_OmKIbuSOlF1iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90569147103-a1urh34lt5sfbc12bjim5djblk6a04so.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90569147103-lje9v2rr882v15k1m30lsak3f8oahnur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihsan.aichat.aichat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+{
+    "connections": [
+        "sandikha.rahardi@gmail.com",
+        "fitriani@gmail.com"
+    ],
+    "chat": [
+        {
+            "sender": "sandikha.rahardi@gmail.com",
+            "receiver": "fitriani@gmail.com",
+            "pesan": "Halo fit, apa kabar ?",
+            "time": "2021-08-25T13:28:59.748721",
+            "isRead":true
+        },
+        {
+            "sender": "fitriani@gmail.com",
+            "receiver": "sandikha.rahardi@gmail.com",
+            "pesan": "Baik dika, kamu sendiri gimana ?",
+            "time": "2021-08-25T13:29:02.748721",
+            "isRead":false
+        }
+    ]
+}
